@@ -1,0 +1,8 @@
+test\client\util\ClientMarshaller.class
+test\client\service\ClientService.class
+test\client\dao\ClientDAO.class
+main\java\test\client\model\ObjectFactory.class
+test\client\resource\ClientServlet.class
+test\client\dao\Application.class
+test\client\dao\ConnectionFactory.class
+test\client\model\Client.class
